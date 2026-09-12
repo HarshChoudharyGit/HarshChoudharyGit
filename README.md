@@ -27,7 +27,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 ## 🌐 Connect with Me
 
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_URL" target="blank">
+<a href="https://www.linkedin.com/in/HarshChoudhary2006" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
