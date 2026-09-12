@@ -31,7 +31,7 @@ Passionate about building scalable backend systems, AI-powered applications, and
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
-<a href="[https://codeforces.com/profile/harshchoudhary2006](https://codeforces.com/profile/hashingcode6002)" target="blank">
+<a href="https://codeforces.com/profile/hashingcode6002" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40" />
 </a>
 
