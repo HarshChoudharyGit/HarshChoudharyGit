@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Harsh+Choudhary;Backend+%26+GenAI+Developer;MNNIT+Allahabad+'27" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=61AFEF&center=true&vcenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Harsh+Choudhary;Backend+%26+GenAI+Developer;MNNIT+Allahabad+'28" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -30,3 +30,20 @@
  🤝 Leadership    :: Technical Mentor @ Robotics Club, MNNIT Allahabad
  💬 Talk To Me    :: Java, DSA, OS, DBMS, Computer Networks, Node.js, System Design
  📬 Main Contact  :: harshmnnit2006@gmail.com
+### 🚀 Featured Projects
+
+#### 🤖 Axions AI
+> *An intelligent AI platform designed for automated reasoning, generative workflows, and agentic task execution.*
+
+<p align="center">
+  <a href="https://axions-ai.vercel.app/">
+    <img src="https://api.microlink.io/?url=https%3A%2F%2Faxions-ai.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url" width="600" alt="Axions AI Preview" />
+  </a>
+</p>
+
+```text
+  [ Client / React Frontend ] ──► [ Node.js / Express API ] ──► [ LangChain Orchestrator ]
+                                                                        │
+                                                    ┌───────────────────┴───────────────────┐
+                                                    ▼                                       ▼
+                                         [ Vector Database / RAG ]                  [ LLM Engine ]
