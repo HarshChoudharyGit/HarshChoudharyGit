@@ -79,4 +79,4 @@ Passionate about building scalable backend systems, AI-powered applications, and
 
 <p align="center">
 ⭐ Always learning, building, and exploring new technologies in software engineering and AI.
-</p>this is my github readme make it look more appealing and ui heavy for a best portfolio and the links for github stats are not working fix it also and keep the links same for details
+</p>
