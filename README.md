@@ -17,19 +17,6 @@
   <a href="https://leetcode.com/u/syntaxbuilder2006/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
   <a href="https://auth.geeksforgeeks.org/user/harshchoudhary2006"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /></a>
 </p>
-
-<br />
-
----
-
-### ⚡ Fast Facts
-
-```text
- 🎓 Education     :: B.Tech in Electronics & Communication Engineering @ MNNIT Allahabad
- 🚀 Focus Areas   :: Scalable Backend Architecture, Agentic Workflows, Generative AI
- 🤝 Leadership    :: Technical Mentor @ Robotics Club, MNNIT Allahabad
- 💬 Talk To Me    :: Java, DSA, OS, DBMS, Computer Networks, Node.js, System Design
- 📬 Main Contact  :: harshmnnit2006@gmail.com
 ### 🚀 Featured Projects
 
 #### 🤖 Axions AI
@@ -47,3 +34,17 @@
                                                     ┌───────────────────┴───────────────────┐
                                                     ▼                                       ▼
                                          [ Vector Database / RAG ]                  [ LLM Engine ]
+
+<br />
+
+---
+
+### ⚡ Fast Facts
+
+```text
+ 🎓 Education     :: B.Tech in Electronics & Communication Engineering @ MNNIT Allahabad
+ 🚀 Focus Areas   :: Scalable Backend Architecture, Agentic Workflows, Generative AI
+ 🤝 Leadership    :: Technical Mentor @ Robotics Club, MNNIT Allahabad
+ 💬 Talk To Me    :: Java, DSA, OS, DBMS, Computer Networks, Node.js, System Design
+ 📬 Main Contact  :: harshmnnit2006@gmail.com 
+
